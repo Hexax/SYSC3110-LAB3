@@ -1,0 +1,2 @@
+before execution of addressBook.addBuddy: size = 0
+After -> size = 1
